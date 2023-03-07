@@ -1,0 +1,69 @@
+
+/* ENCABEZADO **/
+
+#fotoperfil {
+    height: 100%;
+    width: 100%;       
+}
+
+
+#botonmenu {
+    float:right   
+}
+
+
+#linea {
+    background-color: wheat;
+    height: 5px;
+    width: auto;    
+}
+
+
+
+#colorletrappal {
+    color: beige;
+}  
+
+
+
+p {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 14px;
+    font-weight: bold;   
+}
+
+
+
+/* FORMULARIO **/
+
+form.row {
+    background-color:rgb(157, 194, 196)
+}
+
+#botonenviar {
+    background-color: rgb(168, 217, 233);
+}
+
+#frasenocompartir {
+    color: rgb(248, 248, 235);
+}
+
+#campos {
+    color: rgb(116, 108, 108);
+    font-family:'Times New Roman'sans-serif;
+    font-weight: bold;         
+}
+
+
+#columnasdelform {
+    position: relative;
+}
+
+#redes {
+    color: beige;        
+    font-size: 25px;          
+}
+
+#caja {
+    height: 100px;
+}

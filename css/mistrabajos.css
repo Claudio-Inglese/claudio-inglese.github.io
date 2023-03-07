@@ -1,0 +1,53 @@
+
+/* ENCABEZADO **/
+
+#fotoperfil {
+    height: 100%;
+    width: 100%;       
+}
+
+
+#botonmenu {
+    float:right   
+}
+
+
+#linea {
+    background-color: wheat;
+    height: 5px;
+    width: auto;    
+}
+
+
+
+#colorletrappal {
+    color: beige;
+}  
+
+
+
+p {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 14px;
+    font-weight: bold;   
+}
+
+
+/* CARRUSEL **/
+
+#mistrabajos {
+    font-family: 'ABeeZee', sans-serif;   
+    font-weight: bold;   
+    text-decoration: underline;
+    color: rgb(87, 87, 83);
+
+}
+
+#contcarousel {
+    background-color: rgb(165, 159, 159);
+}
+
+#redes {
+    color: beige;        
+    font-size: 25px;          
+}

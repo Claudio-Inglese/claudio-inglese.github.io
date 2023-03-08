@@ -39,15 +39,27 @@ p {
     font-family: 'ABeeZee', sans-serif;   
     font-weight: bold;   
     text-decoration: underline;
-    color: rgb(87, 87, 83);
+    color: rgb(226, 226, 203);
 
 }
 
 #contcarousel {
-    background-color: rgb(165, 159, 159);
+    background-color: rgb(165, 159, 159)
 }
 
 #redes {
     color: beige;        
     font-size: 25px;          
+}
+
+
+/* BOTON SCROLL  **/
+
+.btn-scrolltop-on {
+   
+    transform: translateY(0);    
+}
+
+#btn_scrolltop {
+    float:right;
 }

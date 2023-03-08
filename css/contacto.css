@@ -59,6 +59,8 @@ form.row {
     position: relative;
 }
 
+
+
 #redes {
     color: beige;        
     font-size: 25px;          
@@ -66,4 +68,16 @@ form.row {
 
 #caja {
     height: 100px;
+}
+
+
+/* BOTON SCROLL  **/
+
+.btn-scrolltop-on {
+   
+    transform: translateY(0);    
+}
+
+#btn_scrolltop {
+    float:right;
 }
